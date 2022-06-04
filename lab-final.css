@@ -1,0 +1,54 @@
+*{
+    font-family: monospace;
+}
+
+
+.container__main{
+
+    padding: 0em 2em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.container__contact__main {
+    padding: 0em 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container__contact__main {
+
+
+}
+
+table {
+    width: 100%;
+}
+
+ table td {
+
+    border-top: 1px solid #808080;
+    border-collapse: collapse;
+
+}
+
+table th {
+
+    text-align: left;
+
+}
+
+
+
+table {
+    border: none;
+}
+
+
+.colored_text {
+    color: cornflowerblue;
+}
